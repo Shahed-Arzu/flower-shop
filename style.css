@@ -314,7 +314,7 @@ margin-bottom: 30px;
   height: 449px;
   flex-shrink: 0;
   border-radius: 8px;
-  background: url('/images/Rectangle 9.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
+  background: url('./images/bg.png'), lightgray 0px -203.444px / 100% 213.755% no-repeat;
 }
 
 .subscribe-area .subscribe-contents .title {
